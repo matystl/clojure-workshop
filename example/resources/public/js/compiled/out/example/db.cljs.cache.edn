@@ -1,0 +1,2 @@
+;; Analyzed by ClojureScript 0.0-3211
+{:use-macros nil, :excludes #{}, :name example.db, :imports nil, :requires nil, :uses nil, :defs {default-db {:meta {:end-column 16, :end-line 3, :column 6, :line 3, :file "/home/maty/vacuumlabs/clojurescript/example/src/cljs/example/db.cljs"}, :file "src/cljs/example/db.cljs", :line 3, :column 1, :end-line 3, :end-column 16, :test true, :name example.db/default-db}}, :require-macros nil, :cljs.analyzer/constants {:order [:name :counter], :seen #{:name :counter}}, :doc nil}

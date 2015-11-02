@@ -1,0 +1,1 @@
+{"version":3,"file":"\/home\/maty\/vacuumlabs\/clojurescript\/example\/resources\/public\/js\/compiled\/out\/re_frame\/db.js","sources":["db.cljs?rel=1446435319783"],"lineCount":7,"mappings":";AAAA;;;AASA,AAAKA,qBAAO,4BAAA,5BAACC","names":["re-frame.db\/app-db","reagent.core\/atom"]}
